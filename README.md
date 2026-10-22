@@ -39,16 +39,12 @@ I'm a passionate software developer interested in **software development, backen
 ---
 
 ## 📚 Currently Learning
-
-* 🐍 Advanced Python
 * 🌐 Django
 * 🐧 Linux
 * 🐳 Docker
 * ☸️ Kubernetes
 * 🔄 CI/CD
 * ☁️ Cloud & DevOps
-* 🏗️ System Design
-* 💻 Data Structures & Algorithms
 
 ---
 
